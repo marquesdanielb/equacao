@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author suporte
+ * @author marquesdanielb
  */
 public class CalculadoraDaEquação {
     public static void main(String[] args){

@@ -7,7 +7,7 @@ package br.com.equacao;
 
 /**
  *
- * @author suporte
+ * @author marquesdanielb
  */
 public class Equacao {
     private double delta;
@@ -55,12 +55,3 @@ public class Equacao {
         return this.delta;
     }
 }
-/**if(delta == 0){
-            System.out.println("X1 = "+x1+" X2 = "+x2);
-        }else if(delta >= 0){
-            System.out.println("X1 = "+x1+" X2 = "+x2);
-        }else{
-        System.out.println("Nenhuma raiz real: quando delta for "
-                + "menor que zero");
-        }
-**/
